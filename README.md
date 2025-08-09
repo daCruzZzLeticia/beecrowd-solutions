@@ -1,9 +1,13 @@
 ## Submissões Beecrowd em Java/Beecrowd Java Submissions
 
-Este repositório contém minhas soluções para os problemas do [Beecrowd](https://www.beecrowd.com.br) (antigo URI Online Judge) — plataforma online com desafios de programação competitiva e algoritmos.
+Este repositório contém minhas soluções para problemas do [Beecrowd](https://www.beecrowd.com.br) (antigo URI Online Judge) — uma plataforma online com desafios de programação competitiva e algoritmos.
+
+This repository contains my solutions to problems from [Beecrowd](https://www.beecrowd.com.br) (formerly URI Online Judge) — an online platform with competitive programming and algorithm challenges.
+
+> [👤 Veja meu perfil do beecrowd aqui.](https://judge.beecrowd.com/pt/profile/440331)
 
 > [!IMPORTANT]  
-> _Esse repositório reflete minha joranada de evolução técnica, contendo códigos desde a minha fase mais inicial na minha jornada de programação (2020). Desde então, minha metodologia, práticas e abordagem mudaram significativamente._
+> _Esse repositório reflete minha joranada de evolução técnica, contendo códigos desde a minha fase mais inicial na minha jornada de programação (2020)._
 
 ## Problemas Resolvidos/Solved Problems
 
@@ -11,10 +15,17 @@ Este repositório contém minhas soluções para os problemas do [Beecrowd](http
 
 Iniciante/Beginnner:
 
--   Java
--   Javascript
+-   [Java](1_iniciante_beginner/java)
+-   [Javascript](1_iniciante_beginner/javascript)
+-   [Python](1_iniciante_beginner/python/)
 
-> [👤 Veja meu perfil do beecrowd aqui.](https://judge.beecrowd.com/pt/profile/1129717)
+Ad Hoc:
+
+-   [Python](2_ad_hoc/python/)
+
+Matemática/Mathematics:
+
+-   [Python](5_matematica_mathematics/python/)
 
 ## 📂 Estrutura/Structure
 
