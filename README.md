@@ -4,7 +4,7 @@ Este repositório contém minhas soluções para problemas do [Beecrowd](https:/
 
 This repository contains my solutions to problems from [Beecrowd](https://www.beecrowd.com.br) (formerly URI Online Judge) — an online platform with competitive programming and algorithm challenges.
 
-> [👤 Veja meu perfil do beecrowd aqui.](https://judge.beecrowd.com/pt/profile/440331)
+🌟 **Veja meu perfil do beecrowd [aqui.](https://judge.beecrowd.com/pt/profile/440331)**
 
 > [!IMPORTANT]  
 > _Esse repositório reflete minha joranada de evolução técnica, contendo códigos desde a minha fase mais inicial na minha jornada de programação (2020)._
@@ -26,6 +26,10 @@ Ad Hoc:
 Matemática/Mathematics:
 
 -   [Python](5_matematica_mathematics/python/)
+
+SQL:
+
+-   [SQL (PostgresSQL)](7_sql/)
 
 ## 📂 Estrutura/Structure
 
